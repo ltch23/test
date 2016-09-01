@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-cout<<"luis"<<endl;
+cout<<"segundo"<<endl;
 
 
 return 0;
